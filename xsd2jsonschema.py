@@ -100,16 +100,9 @@ if __name__ == "__main__":
         # If in a Jupyter Notebook, skip argument parsing
         xsd_file_path = 'path/to/your/xsdfile.xsd'  # Update this path as needed
         xsd_to_json_schema_file(xsd_file_path)
-    else:
+    else: #for cli
         parser = argparse.ArgumentParser(description='Convert XSD to JSON Schema')
         parser.add_argument('xsd_file_path', type=str, help='The path to the XSD file')
         args = parser.parse_args()
         
         xsd_to_json_schema_file(args.xsd_file_path)
-
-
-# In[ ]:
-
-
-
-
