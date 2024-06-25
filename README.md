@@ -38,7 +38,7 @@ A simple Python script to convert XSD files into JSON Schema format, making data
    ```python -m ensurepip --upgrade```
    
    Or you can manually install pip with:  
-   ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
+   ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```  
    ```python get-pip.py```
 
 5. Install lxml:  
