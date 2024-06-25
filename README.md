@@ -1,6 +1,6 @@
 # XSD to JSON Schema Converter
 
-A simple Python script to convert XSD files into JSON Schema format, making data validation easy and efficient.
+A simple Python script to convert XSD files into JSON Schema format, making data validation easy and efficient :3 
 
 ## Prerequisites
 
