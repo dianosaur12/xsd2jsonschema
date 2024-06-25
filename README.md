@@ -28,32 +28,32 @@ A simple Python script to convert XSD files into JSON Schema format, making data
    - On MacOS: Open `Terminal` from your Applications/Utilities folder.
    - On Linux: Open your preferred terminal application.
 
-2. Verify Python installation:
+2. Verify Python installation:  
    ```python --version```
 
-3. Verify pip installation:
+3. Verify pip installation:  
    ```pip --version```
    
-   If pip is not installed or you need to upgrade it, run the following command:
+   If pip is not installed or you need to upgrade it, run the following command:  
    ```python -m ensurepip --upgrade```
    
-   Or you can manually install pip with:
+   Or you can manually install pip with:  
    ```curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py```
    ```python get-pip.py```
 
-4. Install lxml:
+5. Install lxml:  
    ```pip install lxml```
 
 
 ## Cloning the Repository
 
-1. Navigate to your desired directory, and clone the repository:
+1. Navigate to your desired directory, and clone the repository:  
    ```git clone https://github.com/dianosaur12/xsd2jsonschema.git```
 
-2. Navigate to the repository on your system:
+2. Navigate to the repository on your system:  
    ```cd xsd2jsonschema```
 
-3. To run the script, use the following command:
+3. To run the script, use the following command:  
    ```python xsd2jsonschema.py path/to/your/xsdfile.xsd```
   
    Make sure to replace `path/to/your/xsdfile.xsd` with the actual path to your XSD file.
