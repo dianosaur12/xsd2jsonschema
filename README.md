@@ -45,7 +45,7 @@ A simple Python script to convert XSD files into JSON Schema format, making data
    ```pip install lxml```
 
 
-## Cloning the Repository
+## Cloning the Repository and Running the Script
 
 1. Navigate to your desired directory, and clone the repository:  
    ```git clone https://github.com/dianosaur12/xsd2jsonschema.git```
