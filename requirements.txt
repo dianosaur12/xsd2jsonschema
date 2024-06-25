@@ -1,0 +1,8 @@
+# Prerequisites
+
+- Python: Ensure Python is installed on your system. If not, follow the installation steps outlined in the README file.
+- pip: Ensure pip is installed and upgraded.
+- lxml: A third-party package that needs to be installed separately.
+
+
+
